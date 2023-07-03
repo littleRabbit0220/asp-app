@@ -20,27 +20,18 @@ const Footer = () => {
         Created by{" "}
         <Link
           sx={{ color: linkColor, fontWeight: 500 }}
-          href="https://johnpolacek"
+          href="https://littleRabbit"
         >
-          John Polacek
+          littleRabbit
         </Link>
       </Box>
       <Box as="span" sx={{ mx: 3, display: "inline-block", py: 3 }}>
         Open sourced on{" "}
         <Link
           sx={{ color: linkColor, fontWeight: 500 }}
-          href="https://github.com/johnpolacek/TweenPages"
+          href="https://github.com/littleRabbit/gsp-app"
         >
           Github
-        </Link>
-      </Box>
-      <Box as="span" sx={{ mx: 3, display: "inline-block", py: 3 }}>
-        Follow{" "}
-        <Link
-          sx={{ color: linkColor, fontWeight: 500 }}
-          href="https://twitter.com/johnpolacek"
-        >
-          @johnpolacek
         </Link>
       </Box>
     </Box>

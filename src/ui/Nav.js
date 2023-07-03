@@ -37,9 +37,6 @@ const Nav = () => (
       <NavLink href="/three" delay={3.2}>
         three
       </NavLink>
-      <NavLink href="/docs" delay={3.3}>
-        docs
-      </NavLink>
     </Box>
   </Box>
 )

@@ -30,6 +30,6 @@
   "resolutions": {
     "@babel/runtime": "^7.12.5"
   },
-  "repository": "https://github.com/johnpolacek/TweenPages",
+  "repository": "https://github.com/littleRabit/gsp-app",
   "license": "MIT-0"
 }

@@ -6,7 +6,7 @@ const DocsPage = () => (
     url="https://tweenpages.vercel.app/docs"
     title="TweenPages | Docs"
     description="TweenPages Docs for building Web Apps with Next.js, Theme UI, Cypress"
-    twitter="johnpolacek"
+    twitter="littleRabbit"
     imageUrl="https://tweenpages.vercel.app/project-logo.png"
     imageAlt="TweenPages Logo"
     background="white"

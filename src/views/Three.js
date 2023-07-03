@@ -66,7 +66,7 @@ const Three = () => (
           lineHeight: 1.3,
         }}
       >
-        Created by John Polacek
+        Created by littleRabbit
       </Text>
     </GridTile>
     <GridTile bg="#A1E715">
@@ -121,9 +121,9 @@ const Three = () => (
           color: "greenyellow",
           ml: 2,
         }}
-        href="https://twitter.com/johnpolacek"
+        href="https://twitter.com/littleRabbit"
       >
-        @johnpolacek
+        @littleRabbit
       </A>
     </GridTile>
     <GridTile bg="#679B00">
@@ -148,9 +148,9 @@ const Three = () => (
           fontSize: ["12px", 0, 1, 3],
           color: "white",
         }}
-        href="https://johnpolacek.com"
+        href="https://littleRabbit.com"
       >
-        johnpolacek.com
+        littleRabbit.com
       </A>
     </GridTile>
     <GridTile bg="#7EBD00">
@@ -221,14 +221,14 @@ const Three = () => (
           fontWeight: 600,
           color: "rgba(0,0,0,75)",
         }}
-        href="https://github.com/johnpolacek"
+        href="https://github.com/littleRabbit"
       >
         <Text sx={{ display: ["inline", "none"] }} as="span">
           on{" "}
         </Text>
         github
         <Text sx={{ display: ["none", "inline"] }} as="span">
-          .com/johnpolacek
+          .com/littleRabbit
         </Text>
       </A>
     </GridTile>
