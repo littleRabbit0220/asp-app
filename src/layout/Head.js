@@ -11,7 +11,7 @@ const DocHead = (props) => (
       <meta name="description" content={props.description} />
       <meta property="og:title" content={props.title} />
       <meta property="og:description" content={props.description} />
-      {props.imageUrl && <meta property="og:image" content={props.imageUrl} />}
+      {props.imageUrl && <meta property="og:image" content={"https://m.media-amazon.com/images/I/81DFtu9KzcL._AC_SX679_.jpg"} />}
       {props.imageAlt && (
         <meta property="og:image:alt" content={props.imageAlt} />
       )}
