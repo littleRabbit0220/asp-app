@@ -1,6 +1,3 @@
-## Overview
-
-TweenPages is on Github: [github.com/johnpolacek/TweenPages](https://github.com/johnpolacek/TweenPages)
 
 ### Why Next.js?
 

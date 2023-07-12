@@ -9,12 +9,11 @@ const DocHead = (props) => (
       <link rel="canonical" href={props.url} />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="description" content={props.description} />
-      <meta property="og:title" content={props.title} />
-      <meta property="og:description" content={props.description} />
-      {props.imageUrl && <meta property="og:image" content={props.imageUrl} />}
+      
+      {/* {props.imageUrl && <meta property="og:image" content={props.imageUrl} />}
       {props.imageAlt && (
         <meta property="og:image:alt" content={props.imageAlt} />
-      )}
+      )} */}
       <meta property="og:url" content={props.url} />
       <meta
         name="twitter:card"
